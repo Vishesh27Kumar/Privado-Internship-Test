@@ -7,3 +7,5 @@ This is the solution for the problem 1. Timer is configurable through code. Chan
 
 ### File: privadoboardgame/boardgame.html
 This is the solution for the problem 2.
+
+Just open these html files in bowser.
